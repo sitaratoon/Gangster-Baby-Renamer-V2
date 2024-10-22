@@ -25,7 +25,7 @@
 
         "CHANNEL": {
 
-            "description": "Channel or Group user Name With @",
+            "description": "sitaratoons",
 
             "required":true
 
@@ -37,13 +37,13 @@
 
             "description": "Pyrogram String Session Use  @genStr_Bot",
 
-            "required": true
+            "required": false 
 
         },
 
         "API_ID": {
 
-            "description": "Your APP ID From my.telegram.org ",
+            "description": "18946488",
 
             "required": true
 
@@ -51,7 +51,7 @@
 
         "API_HASH": {
 
-            "description": "Your API Hash From my.telegram.org ",
+            "description": "c163d4e28e63196c3806cf3b9b2885de",
 
             "required": true
 
@@ -59,7 +59,7 @@
 
         "TOKEN": {
 
-            "description": "Your Bot Token From @BotFather",
+            "description": "7425999899:AAGuAV6Oh7w_QsHuItN8PkxXDgqBWTFbfAk",
 
             "required": true
 
@@ -67,7 +67,7 @@
 
         "ADMIN": {
 
-            "description":"Add Your User ID",
+            "description":"6692613520",
 
             "required": true
 
@@ -75,13 +75,13 @@
 
         "DB_URL":{
 
-             "description":"Database Url Get It From Mongo DB"
+             "description":"mongodb+srv://sitaratoons98:Ajay12398@cluster0.6ptzu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
         },
 
         "DB_NAME":{
 
-               "description":"Database Name ",
+               "description":"sitaratoons",
 
                "required":true
 
@@ -89,7 +89,7 @@
 
         "LOG_CHANNEL":{
 
-             "description":"Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot",
+             "description":"-1002320080278",
 
              "required": true
 
@@ -98,7 +98,7 @@
 
             "description":"Start up pic of your bot. Get from telegraph_Bot",
 
-            "required": true
+            "required": false
 
        }
 
